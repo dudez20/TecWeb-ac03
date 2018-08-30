@@ -1,0 +1,21 @@
+.titulo{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+}
+.black{
+    font-weight: bolder
+}
+.underline{
+    text-decoration: underline;
+}
+.vermelho{
+    color: red;
+}
+.verde{
+    color: #33cc33;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
